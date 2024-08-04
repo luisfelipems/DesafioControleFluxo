@@ -39,6 +39,7 @@ public class Contador{
             for( int i = 0; i <= contador; i++){
                 System.out.println("Imprimindo o número: " + i);
             }
+            
         }
 	}
 }
